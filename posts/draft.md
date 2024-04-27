@@ -1,7 +1,7 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: Week 4, Session 1
+published_at: 2024-04-10
+snippet: Black Squares Activity and brainstorm
 disable_html_sanitization: true
 allow_math: true
 ---
